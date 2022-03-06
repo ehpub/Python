@@ -12,4 +12,5 @@
 
       동영상: https://youtu.be/LfebS4gOUkU
 자료형 - 변수 사용 및 기본 입력 input 함수 : https://gist.github.com/ehpub/dbd7b529f08c0c588d621a80260c84f7#file--format-f-ipynb
+
       동영상: https://youtu.be/XRA_alF8dJc
