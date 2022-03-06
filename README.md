@@ -11,3 +11,5 @@
 자료형 - 문자열 : https://colab.research.google.com/gist/ehpub/a1a0d75ffad29a49eaee24ad8347e7f4/.ipynb
 
       동영상: https://youtu.be/LfebS4gOUkU
+자료형 - 변수 사용 및 기본 입력 input 함수 : https://gist.github.com/ehpub/dbd7b529f08c0c588d621a80260c84f7#file--format-f-ipynb
+      동영상: https://youtu.be/XRA_alF8dJc
