@@ -1,6 +1,6 @@
 # Python
 
-소개 : https://gist.github.com/ehpub/a386cd54ee853f1ec1b32569ca74f0f6#file--intro-ipynb
+소개 : https://colab.research.google.com/gist/ehpub/1bdaddf09edfdf2452dd7cdd3a9350a7/-intro.ipynb
 
       동영상: https://youtu.be/VBRRm62fkOo
 
