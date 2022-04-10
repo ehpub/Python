@@ -24,4 +24,4 @@
 
 제어문과 컬렉션 - 조건문 if : https://colab.research.google.com/gist/ehpub/4253255dafdfa0f407f393950544cd56/.ipynb?hl=ko
 
-      동영상: 
+      동영상: https://youtu.be/AahSK3KasSg
