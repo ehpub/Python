@@ -42,3 +42,11 @@
 동영상:
 
 
+
+제어문과 컬렉션 - 튜플과 리스트 맛보기: https://colab.research.google.com/gist/ehpub/6c2e33af80ce297a23c8df482dbca0bf/.ipynb?hl=ko
+
+동영상:
+
+
+
+
