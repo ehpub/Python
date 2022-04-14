@@ -49,4 +49,14 @@
 
 
 
+제어문과 컬렉션 - 리스트 기능1: https://colab.research.google.com/gist/ehpub/c5229ec4fd6e456efe8776b02801a647/-1.ipynb?hl=ko
+
+동영상:
+
+
+
+
+
+
+
 
