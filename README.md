@@ -57,7 +57,13 @@
 
 제어문과 컬렉션 - 리스트 기능2: https://colab.research.google.com/gist/ehpub/9b08240149355a6271f982267a65d41e/-2.ipynb
 
-동영상
+동영상:
+
+
+
+제어문과 컬렉션 - 리스트 컴프리헨션: https://colab.research.google.com/gist/ehpub/9c568a7142a79ac083be5406e208a5d4/.ipynb
+
+동영상:
 
 
 
