@@ -5,7 +5,7 @@
 동영상: https://youtu.be/VBRRm62fkOo
 
 
-자료형 - 숫자 :https://gist.github.com/ehpub/9556fb9f4f58334e1cc0738b76c3306c#file--ipynb
+자료형 - 숫자 : https://colab.research.google.com/gist/ehpub/9556fb9f4f58334e1cc0738b76c3306c/.ipynb
 
 동영상: https://youtu.be/BMJsNsKZV9Q
 
