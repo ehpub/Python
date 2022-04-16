@@ -39,7 +39,7 @@
       
 제어문과 컬렉션 - 반복문 : https://colab.research.google.com/gist/ehpub/a4194f61578d2b7ed9d3fed47fa6123d/.ipynb?hl=ko
 
-동영상:
+동영상: https://youtu.be/9cMt3fId23w
 
 
 
