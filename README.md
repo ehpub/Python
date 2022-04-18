@@ -66,6 +66,13 @@
 동영상:
 
 
+제어문과 컬렉션 - dictionary와 set: https://colab.research.google.com/gist/ehpub/d0105704fbb6448e91425e170aaf0396/-dictionary-set.ipynb
+
+동영상:
+
+
+
+
 
 
 
