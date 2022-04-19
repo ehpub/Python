@@ -73,6 +73,11 @@
 
 
 
+함수 - 함수 개요: https://colab.research.google.com/gist/ehpub/8e1b8daf6bbeb48b90d756164ef31c59/.ipynb
+
+동영상
+
+
 
 
 
