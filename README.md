@@ -75,7 +75,13 @@
 
 함수 - 함수 개요: https://colab.research.google.com/gist/ehpub/8e1b8daf6bbeb48b90d756164ef31c59/.ipynb
 
-동영상
+동영상:
+
+
+
+함수 - 내장 함수: https://colab.research.google.com/gist/ehpub/0a5ec470c6e393aa248205e20046573d/.ipynb
+
+동영상:
 
 
 
