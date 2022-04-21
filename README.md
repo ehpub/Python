@@ -85,6 +85,9 @@
 
 
 
+함수 - 람다와 콜백 등: https://colab.research.google.com/gist/ehpub/508661823bee1c941a4f3a72e7f3043b/.ipynb
+
+동영상:
 
 
 
