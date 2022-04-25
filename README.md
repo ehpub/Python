@@ -90,4 +90,9 @@
 동영상:
 
 
+모듈 - 모듈 개요와 random 모듈: https://colab.research.google.com/gist/ehpub/9401dc05e8039fa6c3921d5f573aec1a/-random.ipynb
+
+동영상:
+
+
 
