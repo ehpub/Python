@@ -57,7 +57,7 @@
 
 제어문과 컬렉션 - 리스트 기능2: https://colab.research.google.com/gist/ehpub/9b08240149355a6271f982267a65d41e/-2.ipynb
 
-동영상:
+동영상: https://youtu.be/WKTvUG6VJwQ
 
 
 
